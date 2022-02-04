@@ -1,4 +1,7 @@
 .albari{
-    width: 250px;
-    height: 250px;
+    width: 40%;
+    height: auto;
+    position: absolute;
+    left: 31%;
+    top: 20%;
 }
